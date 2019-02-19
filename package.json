@@ -29,7 +29,7 @@
     "getusermedia": "~0.2.1",
     "getscreenmedia": "~0.2.1",
     "attachmediastream": "~1.0.1",
-    "rtcpeerconnection": "~0.3.2",
+    "rtcpeerconnection": "~8.4.0",
     "wildemitter": "0.0.5",
     "hark": "~0.1.1",
     "url": "~0.7.9",
