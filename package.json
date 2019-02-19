@@ -31,7 +31,7 @@
     "attachmediastream": "~1.0.1",
     "rtcpeerconnection": "~0.3.2",
     "wildemitter": "0.0.5",
-    "hark": "~0.1.1",
+    "hark": "~1.2.3",
     "url": "~0.7.9",
     "net": "~1.0.0",
     "crypto": "0.0.3",
