@@ -42,7 +42,7 @@
     "socket.io": "~0.9.16",
     "mootools": "~1.4.5-2",
     "process": "~0.5.1",
-    "loggly": "~0.3.11",
+    "loggly": "~1.1.1",
     "util": "~0.4.9",
     "sys": "0.0.1",
     "streamlogger": "0.0.1",
