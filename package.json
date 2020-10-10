@@ -21,7 +21,7 @@
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-jsbeautifier": "~0.2.0",
-    "browserify": "~2.26.0",
+    "browserify": "~17.0.0",
     "request": "~2.26.0",
     "uglify-js": "~2.3.6",
     "express": "~3.3.5",
